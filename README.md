@@ -1,4 +1,4 @@
-# Tinder App
+# Personal Library
 
 Tinder for books. Click until you find one you want, then cuddle up with it. Enjoy!
 
@@ -11,8 +11,8 @@ This app was written using React + Redux.
 ## Installation
 
 ```
-git clone https://github.com/mkhira2/tinder-app.git
-cd tinder-app
+git clone https://github.com/mkhira2/personal-library.git
+cd personal-library
 npm install
 npm start
 
